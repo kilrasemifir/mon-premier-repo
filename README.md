@@ -2,7 +2,7 @@
 
 ## Présentation
 git commit : pour save son travail
-pit push : quand on se leve de sa chaise
+git push : quand on se leve de sa chaise
 
 ## Instruction pour l'installation
 * Pour créer un repository local en git, tapez la commande suivante:
