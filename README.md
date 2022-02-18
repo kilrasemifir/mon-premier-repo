@@ -1,8 +1,7 @@
 # Mon premier repository
 
 ## Présentation
-git commit : pour save son travail
-pit push : quand on se leve de sa chaise
+Mon premier repository 
 
 ## Instruction pour l'installation
 * Pour créer un repository local en git, tapez la commande suivante:
