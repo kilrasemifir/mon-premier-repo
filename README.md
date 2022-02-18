@@ -40,3 +40,8 @@ git push origin master
 ```shell
 git clone <url>
 ```
+
+* Créer une branche 
+```shell
+git checkout <nom_branche>
+```
