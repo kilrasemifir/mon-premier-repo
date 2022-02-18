@@ -25,3 +25,13 @@ git commit -m <description>
 ```
 
 * Le fichier `.gitignore`permet a git de connaitre les fichiers et dossiers à ignorer.
+
+* Pour lier le repository local au distant
+```shell
+git remote add origin <url https du repository distant>
+```
+
+* Pousser les commits
+```shell
+git push origin master
+```
