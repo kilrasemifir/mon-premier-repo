@@ -37,10 +37,15 @@ git remote add origin <url https du repository distant>
 git push origin master
 ```
 
+
 * récuperer le code depuis github
 ```shell
 git clone https://github.com/kilrasemifir/mon-premier-repo.git
 ```
+
+* test Elodie
+aaa
+
 
 Coucou c'est François je modifie
 
@@ -48,3 +53,4 @@ Coucou c'est François je modifie
 ```shell
 git clone <url>
 ```
+Test Loïc :)
