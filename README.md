@@ -56,9 +56,8 @@ Coucou c'est François je modifie
 ```shell
 git clone <url>
 ```
-<<<<<<< HEAD
->>>>>>> 3ca15b3d14d86ebc041e6cac1b8f0eab8bc2cf21
->>>>>>> f97bbaf5c447fa3ef21788adfd9228d42a3fdc3c
-=======
-Test Loïc :)
->>>>>>> f836e000bb3176d215144ef72770e4b7ff9aedb6
+
+* pour pouvoir parler à Walter White :
+```shell
+git "Say my name --Heisenberg"
+```
