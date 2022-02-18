@@ -37,7 +37,7 @@ git remote add origin <url https du repository distant>
 git push origin master
 ```
 <<<<<<< HEAD
-........
+........ coucou 
 =======
 
 
