@@ -2,8 +2,13 @@
 
 ## Présentation
 
-git commit : pour save son travail
-pit push : quand on se leve de sa chaise
+# <<<<<<< HEAD
+
+# C'est le cours de git
+
+> > > > > > > 7795bc384de539a6bbc40eebc6bed4fe16afd26c
+> > > > > > > git commit : pour save son travail
+> > > > > > > pit push : quand on se leve de sa chaise
 
 ## Instruction pour l'installation
 
