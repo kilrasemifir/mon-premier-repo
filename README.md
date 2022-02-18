@@ -45,3 +45,24 @@ git clone <url>
 ```shell
 git checkout <nom_branche>
 ```
+
+* Ajouter sa branche 
+```shell
+git push -u origin <nom_branche>
+```
+
+* Voir les branche en local 
+```shell
+git branch
+```
+
+* Voir toutes les branches 
+```shell
+git pull
+git branch -a
+```
+
+* changer de branche
+```shell
+git checkout <nom>
+```
