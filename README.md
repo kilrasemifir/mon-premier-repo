@@ -3,7 +3,7 @@
 ## Présentation
 
 C'est le cours de git
-=======
+
 git commit : pour save son travail
 pit push : quand on se leve de sa chaise
 
@@ -45,16 +45,5 @@ git push origin master
 * récuperer le code depuis github
 ```shell
 git clone https://github.com/kilrasemifir/mon-premier-repo.git
-```
-
-* test Elodie
-aaa
-
-
-Coucou c'est François je modifie
-
-* Récuperer le repository git
-```shell
-git clone <url>
 ```
 
