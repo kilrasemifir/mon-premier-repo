@@ -2,7 +2,8 @@
 
 ## Présentation
 
-Blablabla, blabla, blablalblblbalblabllba
+git commit : pour save son travail
+pit push : quand on se leve de sa chaise
 
 ## Instruction pour l'installation
 
@@ -45,3 +46,11 @@ git push origin master
 ```
 
 - Modif de Julien
+
+Coucou c'est François je modifie
+
+- Récuperer le repository git
+
+```shell
+git clone <url>
+```
