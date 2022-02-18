@@ -1,8 +1,7 @@
 # Mon premier repository
 
 ## Présentation
-git commit : pour save son travail
-pit push : quand on se leve de sa chaise
+Blablabla, blabla, blablalblblbalblabllba
 
 ## Instruction pour l'installation
 * Pour créer un repository local en git, tapez la commande suivante:
@@ -37,11 +36,11 @@ git remote add origin <url https du repository distant>
 git push origin master
 ```
 
-<<<<<<< HEAD
-Coucou c'est François je modifie
-=======
-* Récuperer le repository git
+* Récupérer me code depuis github 
 ```shell
-git clone <url>
+git clone https://github.com/kilrasemifir/mon-premier-repo.git
 ```
->>>>>>> 3ca15b3d14d86ebc041e6cac1b8f0eab8bc2cf21
+*Pour créer une branche 
+
+```shell
+git checkout -b <nom de la branche>
