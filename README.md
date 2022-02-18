@@ -46,15 +46,11 @@ git push origin master
 ```shell
 git clone https://github.com/kilrasemifir/mon-premier-repo.git
 ```
-
-* test Elodie
-aaa
-
-
-Coucou c'est François je modifie
-
 * Récuperer le repository git
 ```shell
 git clone <url>
 ```
-
+* Créer une nouvelle branche
+```shell
+git checkout -b <NouvelleBranche>
+```
