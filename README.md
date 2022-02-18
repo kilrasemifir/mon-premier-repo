@@ -38,13 +38,14 @@ git push origin master
 ```
 
 
-* Récupérer le code depuis github
+* récuperer le code depuis github
 ```shell
 git clone https://github.com/kilrasemifir/mon-premier-repo.git
 ```
 
 * test Elodie
 aaa
+
 
 Coucou c'est François je modifie
 
