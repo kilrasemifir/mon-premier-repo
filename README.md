@@ -1,4 +1,4 @@
-# Mon premier repository à moiii
+# Mon premier repository avec git à moiii
 
 ## Présentation
 
@@ -45,9 +45,12 @@ git remote add origin <url https du repository distant>
 git push origin master
 ```
 
-- Modif de Julien
 
-Coucou c'est François je modifie
+* récuperer le code depuis github
+```shell
+git clone https://github.com/kilrasemifir/mon-premier-repo.git
+```
+
 
 - Récuperer le repository git
 
