@@ -1,7 +1,7 @@
 # Mon premier repository
 
 ## Présentation
-Blablabla, blabla, blablalblblbalblabllba
+C'est le cours de git
 
 ## Instruction pour l'installation
 * Pour créer un repository local en git, tapez la commande suivante:
