@@ -37,4 +37,11 @@ git remote add origin <url https du repository distant>
 git push origin master
 ```
 
+<<<<<<< HEAD
 Coucou c'est François je modifie
+=======
+* Récuperer le repository git
+```shell
+git clone <url>
+```
+>>>>>>> 3ca15b3d14d86ebc041e6cac1b8f0eab8bc2cf21
