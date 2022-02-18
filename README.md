@@ -1,12 +1,9 @@
-# Mon premier repository avec git
+# Mon premier repository avec git à moiii
 
 ## Présentation
 
-# <<<<<<< HEAD
 
 # C'est le cours de git
-git commit : pour save son travail
-pit push : quand on se leve de sa chaise
 
 ## Instruction pour l'installation
 
