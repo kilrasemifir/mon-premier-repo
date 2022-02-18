@@ -8,3 +8,8 @@ Blablabla, blabla, blablalblblbalblabllba
 ```shell
 git init
 ```
+
+* Pour voir les derniere modification non sauvegardés
+```shell
+git status
+```
