@@ -12,7 +12,7 @@ git init
 
 * Pour voir les derniere modification non sauvegardés
 ```shell
-git status
+git statusdadsadsadsa
 ```
 
 * Pour ajouter un fichier a un future commit
@@ -41,4 +41,14 @@ git push origin master
 * récuperer le code depuis github
 ```shell
 git clone https://github.com/kilrasemifir/mon-premier-repo.git
+```
+
+* créer une nouvelle branche
+```shell
+git checkout -b "name"
+```
+
+* Changer de  branche
+```shell
+git checkout "name"
 ```
